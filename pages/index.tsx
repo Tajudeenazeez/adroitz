@@ -3,6 +3,9 @@ import { Heading } from '@chakra-ui/react'
 import { Box } from '@chakra-ui/react'
 import Header from '../components/Header'
 import SlideShow from '../components/SlideShow'
+import Pledges from '../components/Pledges'
+import Classes from '../components/Classes'
+import Programs from '../components/Programs'
 
 export default function Home() {
   return (
@@ -16,6 +19,9 @@ export default function Home() {
       <Box>
         <Header/>
         <SlideShow/>
+        <Classes/>
+        <Programs/>
+        <Pledges/>
        
         
       <Heading>
