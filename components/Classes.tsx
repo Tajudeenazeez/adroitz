@@ -11,7 +11,7 @@ import {
 import { Icon } from "@chakra-ui/react";
 import { FaPen, FaSchool } from "react-icons/fa";
 import { MdGroups, MdOnlinePrediction } from "react-icons/md";
-import Link from "../components/NavLink";
+import Link from "./NavLink";
 const Classes = () => {
   return (
     <Box p="48px" bg="white" maxW="100vw">

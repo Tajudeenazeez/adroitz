@@ -1,6 +1,6 @@
 import React from "react";
 import { Flex, Heading } from "@chakra-ui/react";
-import Link from '../components/NavLink'
+import Link from './NavLink'
 interface ProgramProps {
   text: string;
 }
