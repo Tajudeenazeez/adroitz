@@ -24,7 +24,7 @@ const Footer = () => {
     <Flex
       flexDir={{ base: "column", lg: "row" }}
       justifyContent="space-between"
-      bg="darkBlue"
+      bg="blue"
       p={10}
     >
       <VStack alignItems="flex-start">
