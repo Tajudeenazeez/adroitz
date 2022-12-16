@@ -2,6 +2,8 @@ import Head from 'next/head'
 import { Heading } from '@chakra-ui/react'
 import { Box } from '@chakra-ui/react'
 import Header from '../components/Header'
+import SlideShow from '../components/SlideShow'
+
 export default function Home() {
   return (
     <>
@@ -13,6 +15,8 @@ export default function Home() {
       </Head>
       <Box>
         <Header/>
+        <SlideShow/>
+       
         
       <Heading>
         Welcome to Adroitz coding school for kids
