@@ -16,7 +16,7 @@ export default function Home() {
       <Head>
         <title>Cypherdevs</title>
         <meta name="description" content="Impact through code learning" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/cypherdev.ico" />
       </Head>
       <Box pos="relative" minH="100vh" overflow="hidden">
         <Box pos="absolute" zIndex={-10} inset={0}>
