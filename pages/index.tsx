@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <Box>
       <Head>
-        <title>Adroitz</title>
+        <title>Cypherdevs</title>
         <meta name="description" content="Impact through code learning" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
