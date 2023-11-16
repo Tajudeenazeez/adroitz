@@ -1,5 +1,5 @@
 import React from "react";
-import { Flex, Heading } from "@chakra-ui/react";
+import { Flex, Heading, Image } from "@chakra-ui/react";
 
 import NavBar from "./NavBar";
 import MobileNav from "./MobileNav";
@@ -13,6 +13,7 @@ const Header = () => {
       alignItems="center"
       bg="white"
     >
+      <Image src="/cypherdev.png" width={10} height={10} alt="cypherdevs"/>
       <Heading>Cypherdevs</Heading>
       <NavBar />
       <MobileNav />

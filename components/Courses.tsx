@@ -19,7 +19,7 @@ const Courses: React.FC<CoursesProps> = ({ children, title }) => {
       <Box textAlign="center" marginTop={10}>
         <Link
           type="button"
-          pathName="https://docs.google.com/forms/d/e/1FAIpQLSdltDm3s9mSpshCEjhh81TI8ZhriSaXLJmHecauM0xfzdAc5w/viewform?usp=sf_link"
+          pathName="https://forms.gle/x9hDDGnEUJHwFuUJA"
           isExternal
           text="Register for a class"
         />

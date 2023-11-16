@@ -9,10 +9,10 @@ const Programs = () => {
         OUR TRENDING PROGRAMS.
       </Heading>
       <SimpleGrid columns={{ base: 1, lg: 4 }} spacing={10}>
-        <Program text="CODING & DIGITAL LITERACY CLASSES ONLINE & ONSITE (AGES 7 TO 16)" />
+        <Program text="CODING & DIGITAL LITERACY CLASSES ONLINE & ONSITE " />
         <Program text="SUMMER CODING BOOTCAMP ONLINE & ONSITE (AGES 7 TO 16)" />
-        <Program text="AFTER SCHOOL AND WEEKEND CODING CLASSES ONLINE & ONSITE (AGES 7 TO 16" />
-        <Program text="FRONT END AND BACK END PROGRAM FOR ADULT (5 MONTHS)" />
+        <Program text="AFTER SCHOOL AND WEEKEND CODING CLASSES ONLINE & ONSITE " />
+        <Program text="FRONT END AND BACK END PROGRAM FOR ADULT (3 MONTHS)" />
       </SimpleGrid>
     </Box>
   );

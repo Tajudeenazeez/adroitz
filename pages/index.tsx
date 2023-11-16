@@ -9,6 +9,9 @@ import Pledges from "../components/Pledges";
 import Course from "../components/Course";
 import Courses from "../components/Courses";
 import Footer from "../components/Footer";
+import Projects from "../components/Projects";
+import WithSpeechBubbles from "../components/Testimonial";
+import PartnerSlider from "../components/Partners";
 
 export default function Home() {
   return (
@@ -47,6 +50,9 @@ export default function Home() {
             <Course title="BACKEND" src="/be.jpg" />
             <Course title="FULLSTACK" src="/mam.png" />
           </Courses>
+          <Projects/>
+          <WithSpeechBubbles/>
+          <PartnerSlider/>
           <Footer />
         </Box>
       </Box>

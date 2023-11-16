@@ -36,7 +36,7 @@ const Footer = () => {
           variant="solid"
         >
           <Text textAlign="justify">
-            No 30, Western Reservoir Road <br /> Olorunshogo Ilorin Kwara State
+            No 8, Mandate III <br /> Irewolede Ilorin Kwara State
           </Text>
         </Button>
         <Button
@@ -45,7 +45,7 @@ const Footer = () => {
           leftIcon={<FaPhoneAlt />}
           variant="solid"
         >
-          08071965540 08178435354
+          08142549846 09031217041
         </Button>
       </VStack>
       <VStack my={{ base: 10, lg: 0 }} alignItems="flex-start">
